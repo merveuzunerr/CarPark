@@ -1,7 +1,6 @@
 
 # CAR PARK PROJECT
-
-The aim of the project is to add and remove a new vehicle from an existing parking lot.
+The aim of the project is to implement a car park system. The system allows users to add new vehicles to the parking lot, view vehicles added to the parking lot, and remove to added vehicles from the parking lot, the system also allows users to see the horsepower of the vehicles.
 
 ## API Kullanımı
 
