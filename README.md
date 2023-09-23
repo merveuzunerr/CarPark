@@ -78,7 +78,7 @@ Json raw example to add third class vehicle:
     "licensePlate": "16 E 12",
     "modelYear": 2017,
     "modelName": "Golf",
-    "kilowatt": 150,
+    "kilowatt": 150
 }
 
 ```
