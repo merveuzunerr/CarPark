@@ -54,9 +54,8 @@ The aim of the project is to implement a car park system. The system allows user
     "modelName": "POLO",
     "autoPilot": true,
     "price": 3058000,
-    "spareTyre": true,
     "carWash": true (it can be false too),
-    "kilowatt": 100,
+    "kilowatt": 100
 }
 
 Json raw example to add second class vehicle:
@@ -69,8 +68,7 @@ Json raw example to add second class vehicle:
     "spareTyre": true,
     "kilowatt": 100,
     "luggageCappacity": 300,
-    "spareTyre": true,
-    "tireChange": true (it can be false too),
+    "tireChange": true (it can be false too)
 }
 
 Json raw example to add third class vehicle:
