@@ -6,12 +6,12 @@ The aim of the project is to implement a car park system. The system allows user
 
 #### To open the parking lot to add or remove the vehicles
 ```http
-  GET https://localhost:xxx/api/carpark
+  GET https://localhost:xxx/api/carpark/open
   (xxxx => port number )
 ```
 #### To close the parking lot to not be able to add or remove the vehicles
 ```http
-  GET https://localhost:xxx/api/carpark
+  GET https://localhost:xxx/api/carpark/close
   (xxxx => port number )
 ```
 
